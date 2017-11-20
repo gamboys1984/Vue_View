@@ -1,5 +1,5 @@
 .DS_Store
-node_modules/
+node_modules/*
 dist/
 dist_dev/
 dist_int/
@@ -9,9 +9,9 @@ yarn-error.log*
 test/unit/coverage
 test/e2e/reports
 selenium-debug.log
-!node_modules/element-ui/*
-!node_modules/mint-ui/*
-!node_modules/supports-color/*
+!node_modules/element-ui/
+!node_modules/mint-ui/
+!node_modules/supports-color/
 
 # Editor directories and files
 .idea
