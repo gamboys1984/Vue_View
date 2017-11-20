@@ -81,6 +81,7 @@ export default {
     {
         -webkit-transform: rotate(180deg) scale(0.8);
                 transform: rotate(180deg) scale(0.8);
+                
     }
     100%
     {
